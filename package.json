@@ -1,0 +1,39 @@
+{
+  "name": "apiproductos",
+  "version": "1.0.0",
+  "description": "Api de productos de venta en argentina, con datos y comparaciones",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app/app.js"
+  },
+  "keywords": [
+    "Productos",
+    "Supermercado",
+    "Bienes",
+    "comestibles",
+    "Datos",
+    "comparativos",
+    "Datos",
+    "nutricionales",
+    "Estadísticas",
+    "Argentina"
+  ],
+  "author": "Desarrollos MJA",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cluster": "^0.7.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.9.0",
+    "nodemailer": "^6.9.1",
+    "path": "^0.12.7",
+    "winston": "^3.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}

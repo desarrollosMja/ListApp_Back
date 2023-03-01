@@ -1,0 +1,38 @@
+{"level":"warn","message":"Create - ERROR: ReferenceError: logger is not defined"}
+{"level":"warn","message":"Create - ERROR: MongoNotConnectedError: Client must be connected before running operations"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$addToSet: [ { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ]}"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$addToSet: [ { title: \"Supermercado\", elements: [ \"Cacao\", \"Harina\", \"Huevos\" ] }, [ { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ] ]}"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Unknown modifier: $mod. Expected a valid update modifier or pipeline-style update specified as an array"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$set: [ { title: \"Supermercado\", elements: [ \"Cacao\", \"Harina\", \"Huevos\" ] }, [ { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ] ]}"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$set: [ { title: \"Supermercado\", elements: [ \"Cacao\", \"Harina\", \"Huevos\" ] }, [ { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ] ]}"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$set: [ { title: \"Supermercado\", elements: [ \"Cacao\", \"Harina\", \"Huevos\" ] }, [ { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ] ]}"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$set: [ { title: \"Supermercado\", elements: [ \"Cacao\", \"Harina\", \"Huevos\" ] }, [ { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ] ]}"}
+{"level":"warn","message":"Update - ERROR: MongoServerError: Modifiers operate on fields but we found type array instead. For example: {$mod: {<field>: ...}} not {$set: [ { title: \"Supermercado\", elements: [ \"Cacao\", \"Harina\", \"Huevos\" ] }, { title: \"TODOs\", elements: [ \"Comer\", \"Ir al baño\", \"Leer un libro\" ] } ]}"}
+{"level":"warn","message":"Create - ERROR: ReferenceError: DaoFactory is not defined"}
+{"level":"warn","message":"Get - ERROR: ReferenceError: DaoFactory is not defined"}
+{"level":"warn","message":"Sesión inexistente"}
+{"level":"warn","message":"Sesión inexistente"}
+{"level":"warn","message":"Sesión inexistente"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"Token inválido"}
+{"level":"warn","message":"CONNECTION - ERROR: Error: querySrv ENOTFOUND _mongodb._tcp.linkmaker.qn4bjfz.mongodb.net"}
+{"level":"warn","message":"Exists - ERROR: Error: querySrv ENOTFOUND _mongodb._tcp.linkmaker.qn4bjfz.mongodb.net"}
+{"level":"warn","message":"Token inválido"}
